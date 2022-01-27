@@ -1,5 +1,5 @@
 {
-  "name": "Week-14-MVC-Tech-Blog",
+  "name": "Tech-Blog",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -23,13 +23,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/quiptobasco/Week-14-MCV-Tech-Blog.git"
+    "url": "git+https://github.com/daliyaebenny/Tech-Blog.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/quiptobasco/Week-14-MCV-Tech-Blog/issues"
+    "url": "https://github.com/daliyaebenny/Tech-Blog/issues"
   },
-  "homepage": "https://github.com/quiptobasco/Week-14-MCV-Tech-Blog#readme"
+  "homepage": "https://github.com/daliyaebenny/Tech-Blog#readme"
 }
