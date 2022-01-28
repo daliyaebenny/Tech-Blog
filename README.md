@@ -11,7 +11,7 @@
 App will follow the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
    
 
-[Heroku deployment]().
+[Heroku deployment](https://stark-earth-58391.herokuapp.com/).
 
 ## Screenshots
 ![Login](./assets/images/login.png)
