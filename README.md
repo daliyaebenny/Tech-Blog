@@ -8,13 +8,14 @@
 - [License](#license)
 
 ## Description
-A tech blog using a MySQL backend with a MVC model.    
+App will follow the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
+   
 
 [Heroku deployment]().
 
 ## Screenshots
-
-
+![Login](./assets/images/login.png)
+![Tech-Blog](./assets/images/techblog.png)
 
 ## License 
 Licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
